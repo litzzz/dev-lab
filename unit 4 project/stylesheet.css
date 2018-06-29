@@ -1,0 +1,54 @@
+img {
+    border: 2px solid white;
+    width: 150px;
+    height: 150px;
+}
+
+header {
+    background-color: black;
+    border: 0.3px solid;
+    margin: 0.5px;
+    padding: 35px;
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+h2 {
+    font-family: 'Courgette', cursive;
+    color: grey;
+}
+
+#container {
+    display: flex;
+}
+
+p {
+    font-family: 'Courgette', cursive;
+    color: darkred;
+    font-size: 25px;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+#container {
+    display: flex;
+}
+
+#images {
+    flex: 1;
+}
+
+#stripes {
+    flex: 1;
+}
+
+#donate {
+    flex: 1;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+h1{
+    color:#9370DB;
+    font-family: 'Give You Glory', cursive;
+    font-style: italic;
+    font-size: 30px;
+    margin-left: 300px;
+}
+img{
+    color:	#4682B4;
+    height: 500px;
+    width: 500px;
+    margin-left: 300px;
+}
+h2{
+font-family: 'VT323', monospace;
+color:#6495ED;
+font-size: 35px;
+margin-left: 300px;
+text-decoration:underline;
+}
+ul{
+font-family: 'Crushed', cursive;
+color:	#483D8B;
+font-size:30px;
+margin-left: 300px;
+}
+body{
+    background-color:#C0C0C0;
+}

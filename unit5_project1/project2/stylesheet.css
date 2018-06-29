@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Spectral SC', serif;
+    border: solid 2px;
+    text-align: center
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Poiret One', cursive;
+    text-decoration: underline;
+    text-align: center
+}
+
+h2 {
+    font-family: 'Bungee', cursive;
+    text-align-last: center
+}
+
+h3 {
+
+    font-family: 'Londrina Outline', cursive;
+}
+
+img {
+    width: 200px;
+}
+
+body {
+    color: grey;
+}
